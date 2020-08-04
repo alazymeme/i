@@ -10,8 +10,8 @@
 
 # Author: Ivan Derevianko aka druss <drussilla7@gmail.com>
 
-WWW_USER=root
-APPROOT=
+WWW_USER=jesse
+APPROOT=/home/jesse/i
 
 PIDFILE=$APPROOT/i.pid
 LOGFILE=$APPROOT/i.log
