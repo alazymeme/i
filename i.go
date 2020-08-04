@@ -18,9 +18,9 @@ var (
 	// the address to listen on
 	address = "127.0.0.1:9005"
 	// the directory to save the images in
-	root = "/var/www/i.fourtf.com/"
+	root = "/var/www/i.alazymeme.com/"
 	// the root of the link that will be generated
-	webRoot = "https://i.fourtf.com/"
+	webRoot = "https://i.alazymeme.com/"
 
 	// maximum age for the files
 	// the program will delete the files older than maxAge every 2 hours
